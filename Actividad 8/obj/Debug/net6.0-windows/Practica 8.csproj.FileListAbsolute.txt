@@ -1,0 +1,16 @@
+C:\Users\Hector D\source\repos\Practica 8\bin\Debug\net6.0-windows\Practica 8.exe
+C:\Users\Hector D\source\repos\Practica 8\bin\Debug\net6.0-windows\Practica 8.deps.json
+C:\Users\Hector D\source\repos\Practica 8\bin\Debug\net6.0-windows\Practica 8.runtimeconfig.json
+C:\Users\Hector D\source\repos\Practica 8\bin\Debug\net6.0-windows\Practica 8.dll
+C:\Users\Hector D\source\repos\Practica 8\bin\Debug\net6.0-windows\Practica 8.pdb
+C:\Users\Hector D\source\repos\Practica 8\obj\Debug\net6.0-windows\Practica_8.Form1.resources
+C:\Users\Hector D\source\repos\Practica 8\obj\Debug\net6.0-windows\Practica 8.csproj.GenerateResource.cache
+C:\Users\Hector D\source\repos\Practica 8\obj\Debug\net6.0-windows\Practica 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector D\source\repos\Practica 8\obj\Debug\net6.0-windows\Practica 8.AssemblyInfoInputs.cache
+C:\Users\Hector D\source\repos\Practica 8\obj\Debug\net6.0-windows\Practica 8.AssemblyInfo.cs
+C:\Users\Hector D\source\repos\Practica 8\obj\Debug\net6.0-windows\Practica 8.csproj.CoreCompileInputs.cache
+C:\Users\Hector D\source\repos\Practica 8\obj\Debug\net6.0-windows\Practica 8.dll
+C:\Users\Hector D\source\repos\Practica 8\obj\Debug\net6.0-windows\refint\Practica 8.dll
+C:\Users\Hector D\source\repos\Practica 8\obj\Debug\net6.0-windows\Practica 8.pdb
+C:\Users\Hector D\source\repos\Practica 8\obj\Debug\net6.0-windows\Practica 8.genruntimeconfig.cache
+C:\Users\Hector D\source\repos\Practica 8\obj\Debug\net6.0-windows\ref\Practica 8.dll
