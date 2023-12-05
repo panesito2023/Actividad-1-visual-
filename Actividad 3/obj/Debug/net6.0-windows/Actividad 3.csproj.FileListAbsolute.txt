@@ -1,0 +1,16 @@
+C:\Users\Hector D\source\repos\Actividad 3\bin\Debug\net6.0-windows\Actividad 3.exe
+C:\Users\Hector D\source\repos\Actividad 3\bin\Debug\net6.0-windows\Actividad 3.deps.json
+C:\Users\Hector D\source\repos\Actividad 3\bin\Debug\net6.0-windows\Actividad 3.runtimeconfig.json
+C:\Users\Hector D\source\repos\Actividad 3\bin\Debug\net6.0-windows\Actividad 3.dll
+C:\Users\Hector D\source\repos\Actividad 3\bin\Debug\net6.0-windows\Actividad 3.pdb
+C:\Users\Hector D\source\repos\Actividad 3\obj\Debug\net6.0-windows\Actividad_3.Form1.resources
+C:\Users\Hector D\source\repos\Actividad 3\obj\Debug\net6.0-windows\Actividad 3.csproj.GenerateResource.cache
+C:\Users\Hector D\source\repos\Actividad 3\obj\Debug\net6.0-windows\Actividad 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector D\source\repos\Actividad 3\obj\Debug\net6.0-windows\Actividad 3.AssemblyInfoInputs.cache
+C:\Users\Hector D\source\repos\Actividad 3\obj\Debug\net6.0-windows\Actividad 3.AssemblyInfo.cs
+C:\Users\Hector D\source\repos\Actividad 3\obj\Debug\net6.0-windows\Actividad 3.csproj.CoreCompileInputs.cache
+C:\Users\Hector D\source\repos\Actividad 3\obj\Debug\net6.0-windows\Actividad 3.dll
+C:\Users\Hector D\source\repos\Actividad 3\obj\Debug\net6.0-windows\refint\Actividad 3.dll
+C:\Users\Hector D\source\repos\Actividad 3\obj\Debug\net6.0-windows\Actividad 3.pdb
+C:\Users\Hector D\source\repos\Actividad 3\obj\Debug\net6.0-windows\Actividad 3.genruntimeconfig.cache
+C:\Users\Hector D\source\repos\Actividad 3\obj\Debug\net6.0-windows\ref\Actividad 3.dll
